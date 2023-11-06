@@ -1,4 +1,4 @@
-# Loja de Pneus - React
+# Loja - React
 - Nicolle Américo
 
 # Comandos
